@@ -1,4 +1,4 @@
 # graduateprogram-
 LuvinaVictor_BlueTransformersGradueteProgram
 
-Repossitorio criado no ambitto do programa de graduado do Standar bank 
+Repossitorio criado no ambito do programa de graduado do Standar bank 
