@@ -1,0 +1,6 @@
+#Tue, 07 Jun 2022 12:23:45 +0200
+
+info.app.version=0.1
+info.app.name=standard
+grails.env=development
+info.app.grailsVersion=3.3.11
